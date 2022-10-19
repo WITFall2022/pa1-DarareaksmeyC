@@ -26,7 +26,7 @@ public class PA1a {
 		
 		System.out.printf("Total number of inches: %d", totalInches);
 		
-		// TODO: write your code here
+		// TODO: write your code here  
 	}
 
 }
