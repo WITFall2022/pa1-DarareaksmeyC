@@ -25,7 +25,7 @@ public class PA1a {
 		int totalInches = (yards * 36) + (feet * 12) + inches;
 		
 		System.out.printf("Total number of inches: %d", totalInches);
-		
+		 
 		// TODO: write your code here  
 	}
 
