@@ -19,7 +19,7 @@ public class PA1b {
 		int inchesf = inches % 36;
 		int feet = inchesf / 12;
 		int inches1 = inches % 12;
-		
+		 
 		
 		
 		System.out.printf("Yards: %d%n", yards);
